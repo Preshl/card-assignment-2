@@ -5,7 +5,8 @@ body {
   justify-content: center;
 }
 div {
-  background-image: white;
+  background-color: rgba(red, green, blue, 1);
+  background-image: https://media.istockphoto.com/id/1402861883/photo/lifting-hot-air-balloon.webp?b=1&s=170667a&w=0&k=20&c=IBMdvLu7mK_YEakLla7z502NTUDvn1vHBQ0NzP6s7_U=;
   display: flex;
   flex-direction: column;
   justify-content: center;
